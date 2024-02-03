@@ -26,6 +26,6 @@ The UltraEdit Website Clone is a web application developed to emulate the user i
    ```bash
    git clone https://github.com/CoderrShyam/UltraEdit-Clone.git
 
-# Author :- CoderrShyam   
+# Developer :- CoderrShyam   
 
    

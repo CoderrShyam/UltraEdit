@@ -20,7 +20,7 @@ const scrollToTop = (() => {
       };
 
       if (window.innerWidth > 768) {
-        // For larger screens, smoothly scroll to the right before going up
+        // For larger screens, smoothly scroll to the right before going to top
         scrollOptions.left = window.innerWidth - 60; // Adjust the value as needed
       }
 

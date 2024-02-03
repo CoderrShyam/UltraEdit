@@ -5,11 +5,7 @@ Welcome to the UltraEdit Website Clone project! This project aims to replicate t
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -29,3 +25,7 @@ The UltraEdit Website Clone is a web application developed to emulate the user i
 
    ```bash
    git clone https://github.com/CoderrShyam/UltraEdit-Clone.git
+
+# Author :- CoderrShyam   
+
+   
